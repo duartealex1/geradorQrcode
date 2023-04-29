@@ -3,6 +3,7 @@
 ###
 
 <p align="left">O que é um Código QR? É um código de barras, ou barrametrico, bidimensional, que pode ser facilmente escaneado usando a maioria dos telefones celulares equipados com câmera.</p>
+
 [(fonte:winkipedia)](https://www.bing.com/ck/a?!&&p=7f94757c26786a9aJmltdHM9MTY4MjcyNjQwMCZpZ3VpZD0yNTBmNGJiZC00MGFkLTY3YzUtMTNmOS01OWRiNDFjYTY2YTcmaW5zaWQ9NTcwNw&ptn=3&hsh=3&fclid=250f4bbd-40ad-67c5-13f9-59db41ca66a7&psq=gerador+qrcode&u=a1aHR0cHM6Ly9wdC53aWtpcGVkaWEub3JnL3dpa2kvQ8OzZGlnb19RUg&ntb=1)
 
 ###
